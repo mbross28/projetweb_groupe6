@@ -219,9 +219,3 @@ Toutes les combinaisons sont possibles (seulement `id_dep` et `id_ond`, seulemen
 2. Importer la base de données avec le script SQL
 3. Placer les fichiers dans `/var/www/html` ou équivalent
 4. Lancer Apache et accéder via l’IP de la machine
-
----
-
-## 🔗 Notre Git
-
-[https://github.com/Marvillet/projetweb\_groupe6](https://github.com/Marvillet/projetweb_groupe6)
